@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+langchain-openai
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-chroma
+unstructured
+unstructured[md]
